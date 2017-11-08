@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">EnBuscaIntentoPerdido</string>
+    <string name="mensaEntrada">Hola la búsqueda va a comenzar. \Estate muy atento a las indicaciones
+                                del juego, solo así podrás encontrar el intent perdido.</string>
+    <string name="textIntroNombre">Introduce nombre</string>
+    <string name="textoBotonAct1">Empieza la búsqueda</string>
+    <string name="toastNombreVacio">No puede quedar el campo vacío, introduce tu nombre</string>
+    <string name="MensaNombreAct2">Bien %1s, ya no hay vuelta atrás, ahora solo hace falta que tu
+                                valentía y sentido común te ayuden a encontrar el intent perdido</string>
+    <string name="btnAtajoCorto">Atajo corto</string>
+    <string name="btnAtajoLargo">Atajo Largo</string>
+    <string name="botonActividad3">Vaya!! Parece que no has elegido el camnino correcto,
+                                        pulsame para pedir ayuda</string>
+    <string name="btnCogerllave">Coge la llave</string>
+    <string name="btnAbrirPuerta">Abrir puerta</string>
+    <string name="BienvMensaAct4">Muy bien %1s, ya estas muuy cerca, coge la llave y abre
+                                la puerta joven padawan</string>
+    <string name="toastLlaveOK">Ya tienes la llave, abre la puerta!!!</string>
+    <string name="toastNOllave">Aun sigues sin llave</string>
+    <string name="toastMensaInicialLLave">Necesitas la llave para poder abrir la puerta</string>
+    <string name="btnAct6AbreNavegador">Felicidades, has encontrado el INTENT perdido, haz click
+                                aquí para verlo</string>
+    <string name="reinicioApp">Reiniciar APP</string>
+</resources>
